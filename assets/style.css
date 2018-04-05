@@ -65,9 +65,12 @@ main.content {
 }
 
 img {
-  width:30vw;
+  width:50vw;
     text-align: center;
     margin: 1.5em;
+}
+.mobile-mockup{
+  width:30vw;
 }
 
 
