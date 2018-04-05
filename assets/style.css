@@ -65,14 +65,11 @@ main.content {
 }
 
 img {
-  width:50vw;
+  width:30vw;
     text-align: center;
     margin: 1.5em;
 }
 
-#mobile-mockup {
-    width:25vw;
-}
 
 @media (min-width: 65em) {
 }
